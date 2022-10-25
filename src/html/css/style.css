@@ -1,4 +1,12 @@
-.p{
-  color: #00ff00;
-  color: red;
+html{
+  /* color: red; */
+}
+
+
+.logo{
+  background-image: url("https://themesbrand.com/velzon/html/default/assets/images/logo-light.png") ;
+   background-color: black;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
 }
