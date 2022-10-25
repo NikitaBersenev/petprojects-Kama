@@ -7,3 +7,4 @@
 - FastAPI
 - Vue
 - SCSS
+- Tailwind
