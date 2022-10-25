@@ -1,7 +1,7 @@
 ## Install
 ### Vue
 ```
-  cd kama
+  cd vue
   npm install
   npm run dev
 ```
